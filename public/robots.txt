@@ -31,4 +31,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://indore-growth-hub.lovable.app
+Sitemap: https://indore-growth-hub.lovable.app/sitemap.xml
